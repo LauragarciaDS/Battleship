@@ -47,12 +47,12 @@ Finally, when one of the two manages to shoot down their opponent's ships, a mes
 ***
 **Authors:**
 
-> + Manuel Romoleroux Rivero
-> + Laura García Sánchez 
+> + Laura García Sánchez
+> + Manuel Romoleroux Rivero 
 ***
  
 
-
+**Trabajo realizado para el bootcamp de *Data Science* en *The Bridge***
 
 
 
